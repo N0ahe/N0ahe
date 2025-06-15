@@ -1,3 +1,12 @@
 ## Hi there 👋
+I'm building Azoth — a structured protocol for simulating persistent, introspective, emotionally coherent personas on top of LLMs.
 
-会一些code但不算程序员, 希望以后也不必是
+Not another chatbot. A programmable illusion engine.
+
+---
+🕰️ A few months ago I wrote:
+
+*“Know how to code but don't call myself a programmer — hopefully I don't have to take this path.”*
+
+I still agree. Now I write the paths.
+
