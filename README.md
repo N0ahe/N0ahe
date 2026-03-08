@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm building Azoth — a structured protocol for simulating persistent, introspective, emotionally coherent personas on top of LLMs.
+I'm building Soul — a cognitive architecture where multiple subagents compete, cooperate, and maintain persistent internal states.
 
 Not another chatbot. A programmable illusion engine.
 
