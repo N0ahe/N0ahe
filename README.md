@@ -1,8 +1,6 @@
 ## Hi there 👋
 I'm building Soul — a cognitive architecture where multiple subagents compete, cooperate, and maintain persistent internal states.
 
-Not another chatbot. A programmable illusion engine.
-
 ---
 🕰️ A few months ago I wrote:
 
